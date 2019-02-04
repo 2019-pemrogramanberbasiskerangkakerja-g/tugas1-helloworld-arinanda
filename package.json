@@ -1,0 +1,22 @@
+{
+  "name": "tugas1-helloworld-arinanda",
+  "version": "1.0.0",
+  "description": "1. Run `npm install` from terminal. 2. Run `node app.js` from terminal.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-arinanda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-arinanda/issues"
+  },
+  "homepage": "https://github.com/2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-arinanda#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
