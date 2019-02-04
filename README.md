@@ -12,3 +12,4 @@ NOTES : Make sure all the prerequisites are already installed and running.
 2. Navigate to the project directory.
 3. Run `npm install` to download all the dependencies.
 4. Run `node app.js` to start the application.
+5. Open your browser and go to `localhost:1212`.
